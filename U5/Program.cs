@@ -15,6 +15,10 @@
             {
                 Console.WriteLine("El formato es incorrecto");
             }
+            catch(System.OverflowException)
+            {
+                Console.WriteLine("Esa es una edad muy grande o muy pequeña");
+            }
         }
         if(edad is not null)
         Console.WriteLine($"Tu edad es {edad}");
