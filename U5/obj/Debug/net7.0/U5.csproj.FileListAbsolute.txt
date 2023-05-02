@@ -3,3 +3,13 @@
 /workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.AssemblyInfoInputs.cache
 /workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.AssemblyInfo.cs
 /workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.csproj.CoreCompileInputs.cache
+/workspaces/U5-Nuevo-Proyecto/U5/bin/Debug/net7.0/U5
+/workspaces/U5-Nuevo-Proyecto/U5/bin/Debug/net7.0/U5.deps.json
+/workspaces/U5-Nuevo-Proyecto/U5/bin/Debug/net7.0/U5.runtimeconfig.json
+/workspaces/U5-Nuevo-Proyecto/U5/bin/Debug/net7.0/U5.dll
+/workspaces/U5-Nuevo-Proyecto/U5/bin/Debug/net7.0/U5.pdb
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.dll
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/refint/U5.dll
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.pdb
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.genruntimeconfig.cache
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/ref/U5.dll

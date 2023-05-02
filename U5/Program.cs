@@ -1,7 +1,7 @@
 ﻿class Program{
     static void Main()
     {
-        int edad = 0;
+        int? edad = 0;
 
         Console.WriteLine("Captura tu edad y presiona 'Enter'");
         string? edadCapturada = Console.ReadLine();
