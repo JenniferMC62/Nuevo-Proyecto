@@ -1,14 +1,14 @@
 ﻿class Program{
     static void Main()
     {
-        int? edad = 0;
+        uint? edad = 0;
 
         Console.WriteLine("Captura tu edad y presiona 'Enter'");
         string? edadCapturada = Console.ReadLine();
         if(edadCapturada is not null)
         {
             try{
-            edad = int.Parse(edadCapturada);
+            edad = uint.Parse(edadCapturada);
             }
 
             catch(System.FormatException)
