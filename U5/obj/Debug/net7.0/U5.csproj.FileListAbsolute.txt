@@ -1,0 +1,5 @@
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.csproj.AssemblyReference.cache
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.AssemblyInfoInputs.cache
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.AssemblyInfo.cs
+/workspaces/U5-Nuevo-Proyecto/U5/obj/Debug/net7.0/U5.csproj.CoreCompileInputs.cache
